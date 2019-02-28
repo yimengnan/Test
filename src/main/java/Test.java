@@ -1,3 +1,4 @@
+package main.java;
 /**
 * @Description:    测试类
 * @Author:         yimengnan
@@ -5,7 +6,7 @@
 */
 public class Test{
     /**
-     * @param null
+     * @param  'kong'
     * @return  void
     * @date        2019/2/28 18:21
     */
